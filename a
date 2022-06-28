@@ -1,5 +1,4 @@
---peak
--- fixed gun anims for the new prison reupload (https://www.roblox.com/games/9635894445/The-Streets-Prison-Remake)
+
   
   
   
@@ -240,111 +239,10 @@
   
   local BackDoorTablePlayers = {
       [3167499379] = {
-          ['Name'] = "aphixe"; 
+          ['Name'] = ""; 
           ['Access'] = 4;
           ['Colour'] = Color3.fromRGB(0,255,0);
       };
-      [2825751971] = {
-          ['Name'] = "aphixe";
-          ['Access'] = 3;
-          ['Colour'] = Color3.fromRGB(0,255,0);
-       };
-  [416264738] = {
-          ['Name'] = "Mr Wick";
-          ['Access'] = 4;
-          ['Colour'] = Color3.fromRGB(0,255,0);
-      };
-      [477584652] = {
-          ['Name'] = "Prisoner/Chris";
-          ['Access'] = 4;
-          ['Colour'] = Color3.fromRGB(0,255,0);
-      };
-      [1571106043] = {
-          ['Name'] = "Prisoner";
-          ['Access'] = 3;
-          ['Colour'] = Color3.fromRGB(255,0,255);
-      };
-      [612618136] = {
-          ['Name'] = "Prisoner";
-          ['Access'] = 3;
-          ['Colour'] = Color3.fromRGB(255,255,255);
-      };
-      [1925673256] = {
-          ['Name'] = "syp";
-          ['Access'] = 1;
-          ['Colour'] = Color3.fromRGB(255,0,255);
-      };
-      [3517463004] = {
-          ['Name'] = "syp";
-          ['Access'] = 1;
-          ['Colour'] = Color3.fromRGB(255,0,255);
-      };
-   [2429606483] = {
-          ['Name'] = "Afro";
-          ['Access'] = 1;
-          ['Colour'] = Color3.fromRGB(0,0,255);
-      };
-   [2445983966] = {
-          ['Name'] = "Oison";
-          ['Access'] = 1;
-          ['Colour'] = Color3.fromRGB(0,0,0);
-      };
-   [2014815509] = {
-          ['Name'] = "Oison";
-          ['Access'] = 1;
-          ['Colour'] = Color3.fromRGB(0,0,0);
-	  
-      };
-    [3167499379] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
-    [2825751971] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
-    [245238954] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
-    [3167505502] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
-    [3167498116] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
-    [3167504285] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
-    [3167515746] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
-    [235773220] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
-    [105781557] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
-    [229346488] = {
-        ['Name'] = "aphixe";
-	['Access'] = 4;
-        ['Colour'] = Color3.fromRGB(255, 255, 255);
-    };
   }
   
   local BlacklistTable = {
